@@ -1,1 +1,1 @@
-# Openlayers
+# Create a simple web Map using Openlayers
